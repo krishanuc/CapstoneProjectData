@@ -1,3 +1,4 @@
 stop_word_filtering: True
+manual_stop_word_filtering: True
 lemmetization: True
 rating_level_filter: 5
